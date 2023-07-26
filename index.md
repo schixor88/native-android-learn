@@ -10,6 +10,8 @@
 
 #### 2. Google Services
 
+- [Full Note : Page 34](/unit-7.pdf)
+
 #### 3. IOS Programming
 
 Github Repo for AndroidProject
