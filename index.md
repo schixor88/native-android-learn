@@ -6,7 +6,7 @@
 
 #### 1. Local Database with SQLite
 
-- [Note 1 : Database](/index2.md)
+- [Note 1 : Database](/db.md)
 
 #### 2. Google Services
 
