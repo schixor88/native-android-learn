@@ -6,7 +6,7 @@
 
 #### 1. Local Database with SQLite
 
-- [web link click here](/bca_android/index.md)
+- [web link click here](/bca_android/index2.md)
 
 #### 2. Google Services
 
