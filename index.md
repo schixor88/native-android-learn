@@ -14,6 +14,8 @@
 
 #### 3. IOS Programming
 
+- [Full Note](/unit-8.pdf)
+
 Github Repo for AndroidProject
 
 - [Click here](https://gitlab.com/schixor88/android-app-example)
